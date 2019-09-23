@@ -1,0 +1,4 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+shopaclienminh24h.com	TRUE	/	FALSE	1999999999	PHPSESSID	llvplmjf9nsm47u2a5943ureh3
+
